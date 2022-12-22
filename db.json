@@ -1,35 +1,41 @@
 {
-    "configurations":{
-        "class": "2022-2023",
-        "group-name": "Grupo 05",
-        "group-id": "1",
-        "projet-name": "Projeto 05",
-        "project-description": "Descrição do projeto 05"
-    },
-    "members": [
+    "produtos": [
+      [
         {
-            "id": 1,
-            "name": "Aluno 01",
-            "email": "aluno01@labinfo.estga.ua.pt",
-            "nmec": "00001"
+          "id": 1,
+          "produto": "Manteiga",
+          "preco": 2
         },
         {
-            "id": 2,
-            "name": "Aluno 02",
-            "email": "aluno02@labinfo.estga.ua.pt",
-            "nmec": "00002"
-        },
-        {
-            "id": 3,
-            "name": "Aluno 03",
-            "email": "aluno03@labinfo.estga.ua.pt",
-            "nmec": "00003"
-        },
-        {
-            "id": 4,
-            "name": "Aluno 04",
-            "email": "aluno04@labinfo.estga.ua.pt",
-            "nmec": "00004"
+          "id": 2,
+          "produto": "Queijo",
+          "preco": 1
         }
-    ]
-}
+      ]
+    ],
+    "members": [
+      [
+        {
+          "id": 1,
+          "utilizador": "João",
+          "password": "1234"
+        },
+        {
+          "id": 2,
+          "utilizador": "Gonçalo",
+          "password": "4321"
+        },
+        {
+          "id": 3,
+          "utilizador": "Ivo",
+          "password": "4231"
+        },
+        {
+          "id": 4,
+          "utilizador": "Bea",
+          "password": "1324"
+        }
+      ]
+    ],
+    "listas":[]
+  }
