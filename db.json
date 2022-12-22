@@ -37,5 +37,8 @@
         }
       ]
     ],
-    "listas":[]
+    "listas":[{
+        "id":1,
+        "dummy":"data"
+    }]
   }
